@@ -1,4 +1,4 @@
-# Hi, I'm Keerti Prem Gadde
+# Hi, I'm Prem
 
 AI and ML engineer based in Germany, with a Master's in AI and ML from TU Kaiserslautern.
 I build LLM applications that are measured and safe to run: agents with human approval,
@@ -16,6 +16,10 @@ RAG with citations, and evaluations that run in CI.
   thesis: fine-tuning LongT5 and LED to improve requirements documents (ISO/IEC/IEEE 29148).
 - **[Few-shot table detection](https://github.com/KeertiPremGadde/domain-adaptive-few-shot-table-detection)**:
   Master's project at DFKI: domain adaptation between historical and modern documents with 10 labelled images.
+- **[Human activity recognition: data preparation](https://github.com/KeertiPremGadde/HAR-Data-Preparation)**:
+  synchronising and annotating wearable IMU sensor data with video to build training data for activity recognition.
+- **[COVID-19 data analysis](https://github.com/KeertiPremGadde/Enterprise-Data-Science)**:
+  doubling-time trends and an SIR model on Johns Hopkins and RKI data, with interactive Plotly Dash dashboards.
 
 ## Tools
 
