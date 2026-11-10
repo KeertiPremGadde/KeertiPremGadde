@@ -28,4 +28,4 @@ Docker · GitHub Actions · Next.js / TypeScript
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/keertipremgadde/) · [keerti.prem.gadde@gmail.com](mailto:keerti.prem.gadde@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/keertipremgadde/) · [Email](mailto:keerti.prem.gadde@gmail.com)
